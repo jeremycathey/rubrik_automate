@@ -1,0 +1,2 @@
+VMName,DisableNetwork,RemoveNetworkDevices,PowerOn,KeepMacAddresses,PreserveMOID
+SampleVM,false,false,fasle,false,false
