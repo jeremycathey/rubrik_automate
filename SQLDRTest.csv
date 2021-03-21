@@ -1,0 +1,2 @@
+﻿SourceSQLServerInstance,SourceSQLDatabaseName,TargetSQLServerInstance,LiveMountName
+am1-jerecath-w1,AdventureWorks2014,Am1-jerecath-w1,RA_SQLMount
