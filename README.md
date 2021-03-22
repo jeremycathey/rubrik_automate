@@ -7,7 +7,7 @@ This will be an ongoing project with the next phase to include proper error catc
 Download and place files in a directory of your choosing.  Modify the $ScriptPath variable in rubrik_automate.ps1 to reflect this directory and you should be good to go.
 
 Notes:
-The Rubrik PowerShell SDK is currently used (future release will remove dependency), so make sure this is installed.  
+The Rubrik PowerShell SDK is utilized and required (future release will remove dependency), so make sure this is installed.  
 (https://github.com/rubrikinc/rubrik-sdk-for-powershell/blob/master/docs/quick-start.md)
 
 The Sample CSV files contain sample names, so you will need to update them with appropriate VM/Server/DB information or replace with your own for testing.  
